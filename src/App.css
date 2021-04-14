@@ -1,0 +1,14 @@
+body{
+  background-color:rgb(68, 77, 74)
+}
+h1 {
+  text-align: center;
+  color: rgb(212, 189, 189);
+  font-family: cursive;
+}
+h2{
+  text-align: center;
+  font-weight: 300;
+  font-family: fuchet;
+  color: white;
+}

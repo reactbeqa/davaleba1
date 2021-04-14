@@ -1,0 +1,25 @@
+.theme {
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.textdiv {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  border: 1px solid red;
+  margin-top: 50px;
+  margin-left: 25%;
+  color: white
+}
+#colorDiv{
+  border: 2px solid green;
+  width: 140px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-left: 30%;
+}
